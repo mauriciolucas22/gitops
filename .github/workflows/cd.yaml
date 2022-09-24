@@ -44,5 +44,5 @@ jobs:
       - name: Push
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.TOKEN_GITHUB }} # created by default
+          github_token: ${{ secrets.GITHUB_TOKEN }} # created by default
           repository: ${{ secrets.DOCKER_USERNAME }}/gitops
