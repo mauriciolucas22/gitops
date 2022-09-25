@@ -1,6 +1,11 @@
+# Useful links
+
+> https://argo-cd.readthedocs.io/en/stable/getting_started/ > https://konghq.com/blog/kubernetes-ingress-api-gateway
+
+# Create kubernetes cluster
+
 ```
 kind create cluster --name kong-k8s --config infra/kong/kind/config.yaml
-
 ```
 
 # install kong
