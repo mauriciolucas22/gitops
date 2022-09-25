@@ -8,4 +8,4 @@ resources:
 images:
 - name: gitops
   newName: mauriciolucas22/gitops
-  newTag: f3bea208dd1b2588534802cd40d2394b954688b8
+  newTag: 54d60bff1fd8b65c031494e4d78ddcd7ae3ab896
